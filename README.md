@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ri-thik-ah
+- 👋 Hi, I’m Ritika
 - 👀 I’m interested in product management, LLMs, data analytics
 - 🌱 I’m currently learning Prompt Engineering, Python and SQL
 - 💞️ I’m looking to collaborate on creating GPTs
